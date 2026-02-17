@@ -7,15 +7,15 @@ Nossa missão é elevar a maturidade financeira das organizações, conectando *
 
 ## 📂 Projetos em Destaque
 
-### 🔹 **parquetData - arquivos Parquet**
+### 🔵 **parquetData - arquivos Parquet**
 Automação modular para leitura, escrita e padronização de arquivos Parquet, com arquitetura escalável, testes automatizados e CI/CD.
 ➡️ Repositório: https://github.com/IncomeView/parquetData
-### 🔹 **siengeAPI — Automação e Integrações com o Sienge**  
+### 🟢 **siengeAPI — Automação e Integrações com o Sienge**  
 Automação de rotinas financeiras e operacionais via APIs do Sienge, com arquitetura modular em Python, Docker e PostgreSQL.  
 ➡️ *Repositório:* https://github.com/IncomeView/siengeAPI
-### 🔹 **Power BI — Dashboards Executivos** *(em construção)*  
+### 🟡 **Power BI — Dashboards Executivos** *(em construção)*  
 Modelos analíticos para FP&A, vendas, inadimplência, performance operacional e governança.
-### 🔹 **Power Query — ETL e Padronização de Dados** *(em construção)*  
+### 🟡 **Power Query — ETL e Padronização de Dados** *(em construção)*  
 Pipelines de transformação, limpeza e integração de dados para ambientes corporativos.
 
 ### 🔹 (Novos projetos da IncomeView entrarão aqui conforme forem publicados.)
@@ -70,6 +70,6 @@ A IncomeView é a materialização dessa visão — uma empresa orientada por é
 ## 🔗 Conecte-se
 
 - GitHub da empresa: https://github.com/IncomeView
-- GitHub pessoal: https://github.com/MoacirMagalhaes
-- LinkedIn: https://www.linkedin.com/in/moacirfaria (linkedin.com in Bing)
+- GitHub pessoal: https://github.com/MmsFaria
+- LinkedIn: https://www.linkedin.com/in/moacirfaria
 
